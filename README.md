@@ -9,4 +9,4 @@ This project is a simplified clone of the Amazon website, created using HTML and
 </ul>
 
 # Link to Project
-<a href="https://abhi231210003.github.io/Amazon-Clone/">Amazon-Clone</a>
+<a href="https://amazon-clone2535.netlify.app/">Amazon-Clone</a>
